@@ -1,4 +1,9 @@
 command
+mon
+mdirection 2
 takeoff
+down 20
 delay 5
+go 0 0 0 10 m3
 land
+moff
